@@ -1,6 +1,6 @@
 # Overview
 
-This hands-on exercise demonstrates how to set up a minimal 2-tier application using Azure.
+This hands-on exercise demonstrates how to set up a simple 2-tier architecture using Azure.
 
 # Requirements
 
